@@ -2,5 +2,5 @@
 
 print("Hello, world again!")
 print("This is another message")
-prin ("Goodbye!")
+print ("Goodbye!")
 
